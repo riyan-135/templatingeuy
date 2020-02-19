@@ -1,0 +1,45 @@
+.banner-area {
+    background: url(../templatingeuy/img/banner.jpg);
+    background-size: cover;
+    height: 385px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.banner-isi {
+    margin-top: 150px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-isi .left-part h1 {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-isi .right-part a {
+    font-family: 'Roboto', sans-serif;
+    color: ghostwhite;
+    margin: 0px 10px;
+    float: right;
+    text-transform: uppercase;
+}
+
+.banner-isi .right-part span {
+    color: ghostwhite;
+    margin: 0px 10px;
+    float: right;
+}
+
+.card-header .top-left h4 {
+    font-size: 18px;
+}
+
+.card-header .top-left p {
+    font-size: 14px;
+    color: darkgray;
+    line-height: 0.5px;
+}
+
+.card-body p {
+    color: darkgrey;
+}
