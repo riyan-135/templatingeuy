@@ -2,7 +2,7 @@ $(window).scroll(function () {
     var y = $(window).scrollTop()
     if (y <= 500) {
         $('.navbar').css('background-color', '#3EC0F4');
-    } else if (y <= 800) {
+    } else if (y <= 1000) {
         $('.navbar').css('background-color', 'rgba(70, 219, 249, 0.9)');
     } else {
         $('.navbar').css('background-color', '#6ae7e7');
